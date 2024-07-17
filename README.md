@@ -38,7 +38,7 @@ For more detailed usage instructions, please refer to the documentation.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the CC0 1.0 Universal - see the LICENSE file for details.
 
 To build the wheel, follow these steps:
 
